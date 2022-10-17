@@ -2,7 +2,9 @@
 // Alarm System
 // This is an alarm system assignment , when you wave your hand over the motion sensor , it perfroms certain light commands depending on which
 // stage you reached 
-
+/// @author Alexei Ougriniouk
+/// @id 000776331
+/// I have created this work and not shared this with anyone else
 /// I , Alexei Ougriniouk, Student number 000776331, certify this is my own work 
 /// STAGE REACHED = 3
  
