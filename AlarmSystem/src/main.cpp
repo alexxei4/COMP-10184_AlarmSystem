@@ -68,7 +68,7 @@ void loop() {
   // send the PIR signal directly to the LED 
   // but invert it because true = LED off! 
   digitalWrite(LED_BUILTIN, !bPIR); 
-  /// Stage 3 , this is an endless loop , in theory it should 
+  /// Stage 3 , this is an endless loop , in theory it should keep the light on until the reset button is pushed 
   while(1)                    
   {
     digitalWrite(LED_BUILTIN, bPIR);
